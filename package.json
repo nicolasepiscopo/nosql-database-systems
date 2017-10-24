@@ -1,0 +1,16 @@
+{
+  "name": "db-systems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "document-store-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btoa": "^1.1.2",
+    "lodash": "^4.17.4",
+    "simple-terminal-menu": "^1.1.3"
+  }
+}
